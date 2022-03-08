@@ -2,6 +2,7 @@ package hdfc.loans.carloans;
 
 public class A 
 {
+
 	int a = 100, b = 200, c = 300;
 	public void m1()
 	{
